@@ -19,6 +19,20 @@
 A lightweight, extensible Placeholder API for PocketMine‑MP that lets you embed dynamic values in messages, GUIs, and configs using tokens like `%player_name%` or `%server_tps%`. Plugins can also provide their own placeholders via a simple Provider/Expansion model.
 
 ---
+
+## Why this PlaceholderAPI?
+
+While there is an existing PlaceholderAPI plugin for PocketMine-MP, this implementation offers several advantages:
+
+- **Modern API 5 Support**: Built specifically for PocketMine-MP API 5 with updated code standards and best practices
+- **Lightweight Architecture**: Minimal overhead with optimized performance for high-traffic servers
+- **Flexible Provider System**: Enhanced Provider/Expansion model that allows third-party plugins to easily register and distribute their placeholders
+- **Built-in Expansion Downloads**: In-game command to download and install expansions directly from providers without manual file management
+- **Comprehensive Built-in Placeholders**: Includes extensive server and player placeholders out of the box, reducing dependency on multiple expansion plugins
+- **Active Development**: Regular updates and maintenance with responsive support for bug reports and feature requests
+- **Clean Console Output**: Follows PocketMine-MP guidelines by avoiding unnecessary startup/shutdown messages
+
+---
 ## 🌍 Wiki
 - Check our plugin [wiki] for details of feature and other things.
 ---

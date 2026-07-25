@@ -44,11 +44,7 @@ final class Main extends PluginBase implements Listener{
 
         // Defer reinstall so other plugins have time to register their Providers in their onEnable()
         $this->getScheduler()->scheduleDelayedTask(new ClosureTask(function() : void{
-            $count = $this->providerManager->reinstallAll();
-            if($count > 0){
-                $this->getLogger()->info("Reinstalled $count expansion(s) from providers.");
-            }
-            $this->getLogger()->info("PlaceholderAPI enabled with " . count($this->expansionManager->getAll()) . " expansion(s)");
+            $this->providerManager->reinstallAll();
         }), 1);
     }
 
