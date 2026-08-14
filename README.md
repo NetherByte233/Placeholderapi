@@ -1,4 +1,4 @@
-[issues]: https://github.com/NetherByte233/Placeholderapi-PMMP/issues
+[issues]: https://github.com/NetherByte233/Placeholderapi/issues
 [licenseImg]: https://img.shields.io/badge/license-MIT-blue.svg
 [license]: LICENSE
 
