@@ -2,7 +2,7 @@
 
 ## Using placeholders
 
-Place tokens like `%....%` in strings parsed by plugins that integrate with PlaceholderAPI.
+Place tokens like `%...%` in strings parsed by plugins that integrate with PlaceholderAPI.
 
 Example:
 ```
