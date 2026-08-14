@@ -1,11 +1,10 @@
-[issues]: https://github.com/NetherByte233/PlaceholderAPI-PMMP/issues
+[issues]: https://github.com/NetherByte233/Placeholderapi-PMMP/issues
 [licenseImg]: https://img.shields.io/badge/license-MIT-blue.svg
 [license]: LICENSE
 
 [wikiimg]: https://img.shields.io/badge/wiki-PlaceholderAPI-blue
-[wiki]: https://netherbyte233.github.io/PlaceholderAPI/
+[wiki]: https://netherbyte233.github.io/Placeholderapi/
 
-[docs]: https://github.com/NetherByte233/PlaceholderAPI-PMMP/wiki
 [Youtubeimg]: https://img.shields.io/badge/YouTube-NetherByte-red
 [NetherByte]: https://youtube.com/@netherbyte-e2d?si=640wTLjcs--w_YIC
 [pmmp]: https://pmmp.io/
